@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Duc Anh Nguyen
 - 📫 How to reach me 
-[Linked In](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-anh-nguy%E1%BB%85n-73b9a2257)
+[Linked In](www.linkedin.com/in/duc-anh-nguyen-73b9a2257)
 ### My Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
